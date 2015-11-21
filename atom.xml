@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>孙伟涵</title>
-  <id>http://sumiger.github.com</id>
-  <updated>2015-11-21T17:59:12+08:00</updated>
+  <id>http://www.inkpaper.io/blog/</id>
+  <updated>2015-11-21T18:51:09+08:00</updated>
   <subtitle>个人博客</subtitle>
-  <link href="http://sumiger.github.com"></link>
+  <link href="http://www.inkpaper.io/blog/"></link>
   <author>
     <name>孙伟涵</name>
   </author>
@@ -12,7 +12,7 @@
     <updated>2015-11-06T10:00:00+08:00</updated>
     <id>tag:,2015-11-06:</id>
     <content type="html">纸小墨（InkPaper）是一个使用GO语言编写的静态博客构建工具，可以快速搭建博客网站。优点是无依赖跨平台，配置简单构建快速，注重简洁易用与排版优化</content>
-    <link href="http:\sumiger.github.com\post\2015\03\01\ink-blog-tool.html"></link>
+    <link href="http:\www.inkpaper.io\blog\post\2015\03\01\ink-blog-tool.html"></link>
     <author>
       <name>孙伟涵</name>
     </author>
