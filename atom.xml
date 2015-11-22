@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>孙伟涵</title>
-  <id>http://www.inkpaper.io/blog/</id>
-  <updated>2015-11-21T18:51:09+08:00</updated>
+  <id>http://sumiger.github.io/</id>
+  <updated>2015-11-22T21:25:25+08:00</updated>
   <subtitle>个人博客</subtitle>
-  <link href="http://www.inkpaper.io/blog/"></link>
+  <link href="http://sumiger.github.io/"></link>
   <author>
     <name>孙伟涵</name>
   </author>
   <entry>
-    <title>简洁的静态博客构建工具 —— 纸小墨（InkPaper）</title>
-    <updated>2015-11-06T10:00:00+08:00</updated>
-    <id>tag:,2015-11-06:</id>
-    <content type="html">纸小墨（InkPaper）是一个使用GO语言编写的静态博客构建工具，可以快速搭建博客网站。优点是无依赖跨平台，配置简单构建快速，注重简洁易用与排版优化</content>
-    <link href="http:\www.inkpaper.io\blog\post\2015\03\01\ink-blog-tool.html"></link>
+    <title>书签分享——工作、学习、娱乐，好站云集</title>
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <id>tag:,1970-01-01:</id>
+    <content type="html"></content>
+    <link href="http:\sumiger.github.io\post\2015\11\22\favorsites.html"></link>
+    <author>
+      <name>孙伟涵</name>
+    </author>
+  </entry>
+  <entry>
+    <title>测试文档—— Markdown 格式文档在网页中的效果</title>
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <id>tag:,1970-01-01:</id>
+    <content type="html">&#xA;&#xA;我们理解您需要更便捷更高效的工具记录思想，整理笔记、知识，并将其中承载的价值传播给他人，**Cmd Markdown** 是我们给出的答案 —— 我们为记录思想和分享知识提供更专业的工具。 您可以使用 Cmd Markdown：</content>
+    <link href="http:\sumiger.github.io\post\2015\11\21\cmdmarkdown.html"></link>
     <author>
       <name>孙伟涵</name>
     </author>
